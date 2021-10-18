@@ -1,4 +1,5 @@
 # **Matéo Le Jeune**
+![This is a me](https://github.com/Demondkrane/CVMateoLeJeune.md/blob/main/np%20face%20capture.png?raw=true "This is a sample image.")
 ### 07 62 26 25 18
 #### lejeunemateo@gmail.com
 #### 33 Place de la République
@@ -12,9 +13,9 @@
 * **2016-2017** Diplôme National du Brevet mention bien collège Nelson Mandela, Elbeuf
 
 ### **EXPERIENCES**:
-*  **2017-2019** Bénévolat pour la commune de La Londe en tant que serveur lors des événements organisés par la mairie de La Londe
+* **2017-2019** Bénévolat pour la commune de La Londe en tant que serveur lors des événements organisés par la mairie de La Londe
 
-*  **2016** Stage de quatrième au musée de la Fabrique des Savoirs, durée de 3 jours. (participation à une animation durant laquelle j'ai aidé des enfants à la fabrication d'un mangeoire pour oiseaux, tâches administratives, visite d'un site archéologique)
+* **2016** Stage de quatrième au musée de la Fabrique des Savoirs, durée de 3 jours. (participation à une animation durant laquelle j'ai aidé des enfants à la fabrication d'un mangeoire pour oiseaux, tâches administratives, visite d'un site archéologique)
 
 ### **COMPETENCE**:
 ##### **Langues**:
