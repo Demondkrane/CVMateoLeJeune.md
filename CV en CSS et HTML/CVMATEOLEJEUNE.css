@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+}
+#mainwrapper{
+    display:flex;
+}
+#sidebar{
+    background: black;
+    background-size: 1140px
+}
+h1{
+    font-family: 'Break Regular';
+    background: black;
+    color: white;
+    font-size: 52px;
+    background-size: 50px;
+}
+
+h2{
+    font-family: Space Grotesk;
+    color: white;
+}
+
+h4{
+    font-family: 'Meera Inimai', sans-serif;
+    color: white;
+}
+
+h3{
+    font-family:'Darker Grotesque', sans-serif;
+}
+
+li{
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+}
+
+br{
+    font-family: 'Roboto', sans-serif;
+}
