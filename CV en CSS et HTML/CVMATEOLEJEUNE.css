@@ -10,12 +10,28 @@ body{
     background: black;
     background-size: 1024px
 }
+
+img {
+    max-width: 80%;
+    height: auto;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+#box{
+    background: black;
+    height: 150px;
+    width: 1124px;
+    padding-top: 10px;
+}
+
 h1{
     font-family: 'Break Regular';
     background: black;
     color: white;
     font-size: 80px;
     background-size: 50px;
+    margin-left: 10px;
 }
 
 h2{
